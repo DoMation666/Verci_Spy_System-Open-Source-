@@ -18,7 +18,7 @@ Namespace My
     ' or if you encounter build errors in this file, go to the Project Designer
     ' (go to Project Properties or double-click the My Project node in
     ' Solution Explorer), and make changes on the Application tab.
-    '
+    'fjdjdjsjsjdjdjdndndn
     Partial Friend Class MyApplication
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
